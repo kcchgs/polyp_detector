@@ -10,7 +10,7 @@ For optimal performance, this application should be operated on a physical Andro
 
 ![App example showing UI controls. Highlights detected polyp in a colonoscopy image](https://storage.googleapis.com/download.tensorflow.org/tflite/examples/obj_detection_polyp.gif)
 
-![App example showing UI controls with multiple polyps detected in a colonoscopy video frame.](screenshot1.png)
+![App example showing UI controls with multiple polyps detected in a colonoscopy video frame.](screenshot2.jpg)
 
 ## Build the demo using Android Studio
 
