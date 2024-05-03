@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-30:/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/ybman/.gradle/caches/transforms-3/e5e1417637e39757eb19edce8478ad5f/transformed/material-1.0.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "264",
+                        "endLines": "8",
+                        "endColumns": "10",
+                        "endOffsets": "431"
+                    }
+                },
+                {
+                    "source": "/Users/ybman/.gradle/caches/transforms-3/0ee2791e65c8e6cfa42e0768cc1256d0/transformed/appcompat-1.3.1/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}
