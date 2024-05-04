@@ -4,6 +4,7 @@
 
 This application is a specialized camera app designed to continuously detect and identify polyps using your device's back camera. The app utilizes advanced models such as the quantized [EfficientDet Lite2](https://tfhub.dev/tensorflow/lite-model/efficientdet/lite2/detection/metadata/1) specifically trained for polyp detection from gastrointestinal imaging data. 
 * [Wang, Guanghui, 2021, "Replication Data for: Colonoscopy Polyp Detection and Classification: Dataset Creation and Comparative Evaluations", https://doi.org/10.7910/DVN/FCBUOR, Harvard Dataverse, V1 (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FCBUOR)
+
 These instructions will guide you through the process of building and running the demo on an Android device.
 
 The model files are seamlessly integrated into the app via Gradle scripts when you build and run the app, eliminating the need for manual downloads of TFLite models.
