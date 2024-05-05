@@ -4,7 +4,7 @@
 
 https://www.tensorflow.org/lite/android/tutorials/object_detection?hl=ko
 
-This application is a modification of object-detection app(https://www.tensorflow.org/lite/android/tutorials/object_detection), which is a specialized camera app designed to continuously detect and identify general object. This modified object detection app can detect and identify colonic polyps using your device's back camera. The app utilizes advanced models such as the quantized [EfficientDet Lite2](https://tfhub.dev/tensorflow/lite-model/efficientdet/lite2/detection/metadata/1) specifically trained for polyp detection from gastrointestinal imaging data. 
+This application is a modification of object-detection app(https://www.tensorflow.org/lite/android/tutorials/object_detection), which is a specialized camera app designed to continuously detect and identify general object. This modified object detection app can detect and identify colonic polyps using your device's back camera. The app utilizes advanced models such as the quantized [EfficientDet Lite2](https://tfhub.dev/tensorflow/lite-model/efficientdet/lite2/detection/metadata/1) specifically trained for polyp detection from following imaging data. 
 * Wang, Guanghui, 2021, "Replication Data for: Colonoscopy Polyp Detection and Classification: Dataset Creation and Comparative Evaluations", https://doi.org/10.7910/DVN/FCBUOR, Harvard Dataverse, V1
   (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FCBUOR)
 
