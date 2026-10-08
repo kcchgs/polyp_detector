@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article below."
+title: "TensorFlow Lite Polyp Detection for Android"
+type: software
+authors:
+  - family-names: Kim
+    given-names: Yong Bae
+license: Apache-2.0
+repository-code: "https://github.com/kcchgs/polyp_detector"
+keywords:
+  - colonoscopy
+  - polyp detection
+  - artificial intelligence
+  - open source
+  - TensorFlow Lite
+preferred-citation:
+  type: article
+  title: "Smartphone-based polyp detection: a first step towards an open-source AI framework"
+  authors:
+    - family-names: Kim
+      given-names: Yong Bae
+  journal: "Journal of Medical Artificial Intelligence"
+  volume: 8
+  start: 49
+  year: 2025
+  doi: "10.21037/jmai-24-310"

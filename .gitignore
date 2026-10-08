@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+build/
+/captures
+.externalNativeBuild/
+.cxx/
+
+# Local configuration (contains machine-specific SDK path)
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Signing keys
+*.jks
+*.keystore
