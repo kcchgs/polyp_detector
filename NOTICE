@@ -34,10 +34,12 @@ Third-party components
    Dataset creation and comparative evaluations. PLoS ONE. 2021.
    https://doi.org/10.1371/journal.pone.0255809
 
-   The dataset is NOT redistributed in this repository. Its own license
-   and terms of use, as stated on the Harvard Dataverse page above,
-   govern any use of the data. The Apache License 2.0 of this repository
-   does not grant any rights to the dataset.
+   Dataset license: Creative Commons CC0 1.0 Universal Public Domain
+   Dedication (https://creativecommons.org/publicdomain/zero/1.0/), as
+   stated on the Harvard Dataverse page above.
+
+   The dataset is not redistributed in this repository. Attribution is
+   given here as good scholarly practice; CC0 does not require it.
 
 -------------------------------------------------------------------------
 Citation
