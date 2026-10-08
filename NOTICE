@@ -1,0 +1,58 @@
+Polyp Detector for Android (pilot study)
+Copyright 2024-2026 Yong Bae Kim
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+It is a modified version of the TensorFlow Lite object detection example
+for Android:
+  https://www.tensorflow.org/lite/android/tutorials/object_detection
+  Copyright 2022 The TensorFlow Authors. All Rights Reserved.
+  Licensed under the Apache License, Version 2.0.
+The original copyright notices in the source files are retained.
+
+-------------------------------------------------------------------------
+Third-party components
+-------------------------------------------------------------------------
+
+1. TensorFlow Lite runtime, Task Library and pretrained detection models
+   (EfficientDet-Lite0/1/2, SSD MobileNet v1) published by Google /
+   The TensorFlow Authors. Used under the license stated on each
+   component's source page.
+
+2. Training data for the polyp detection models
+   (efficientdet-lite2-polyp.tflite and related polyp models in
+   app/src/main/assets):
+
+   Wang, Guanghui, 2021, "Replication Data for: Colonoscopy Polyp
+   Detection and Classification: Dataset Creation and Comparative
+   Evaluations", Harvard Dataverse, V1.
+   https://doi.org/10.7910/DVN/FCBUOR
+
+   Associated article:
+   Li K, Fathan MI, Patel K, Zhang T, Zhong C, Bansal A, Rastogi A,
+   Wang JS, Wang G. Colonoscopy polyp detection and classification:
+   Dataset creation and comparative evaluations. PLoS ONE. 2021.
+   https://doi.org/10.1371/journal.pone.0255809
+
+   The dataset is NOT redistributed in this repository. Its own license
+   and terms of use, as stated on the Harvard Dataverse page above,
+   govern any use of the data. The Apache License 2.0 of this repository
+   does not grant any rights to the dataset.
+
+-------------------------------------------------------------------------
+Citation
+-------------------------------------------------------------------------
+
+If you use this software, please cite:
+
+  Kim YB. Smartphone-based polyp detection: a first step towards an
+  open-source AI framework. J Med Artif Intell. 2025;8:49.
+  https://doi.org/10.21037/jmai-24-310
+
+-------------------------------------------------------------------------
+Medical disclaimer
+-------------------------------------------------------------------------
+
+This software is a research prototype. It is not a medical device, has
+not been approved or cleared by any regulatory authority, and must not
+be used for clinical diagnosis or patient care decisions.
